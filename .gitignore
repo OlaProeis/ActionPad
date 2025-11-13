@@ -62,6 +62,7 @@ safe-rename.sh
 # Test files
 test-scripts/
 TESTING.md
+TESTING_CHECKLIST.md
 
 # Logs
 *.log
