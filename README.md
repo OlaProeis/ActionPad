@@ -1,4 +1,4 @@
-# Shortcut Widget for KDE Plasma 6
+# ActionPad for KDE Plasma 6
 
 <div align="center">
 
@@ -168,7 +168,7 @@ sudo pacman -S cmake extra-cmake-modules qt6-base \
 4. **Add the widget**
    - Right-click on your panel or desktop
    - Select "Add Widgets"
-   - Search for "Shortcut Widget"
+   - Search for "ActionPad"
    - Drag it to your desired location
 
 ---
@@ -179,7 +179,7 @@ sudo pacman -S cmake extra-cmake-modules qt6-base \
 
 1. **Add your first button**
    - Right-click the widget
-   - Select "Configure Shortcut Widget"
+   - Select "Configure ActionPad"
    - Click "Add New Button"
 
 2. **Configure the button**

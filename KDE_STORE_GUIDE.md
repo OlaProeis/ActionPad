@@ -202,7 +202,7 @@ killall plasmashell && plasmashell &
 ## Usage
 
 1. Add widget to panel or desktop
-2. Right-click widget → "Configure Shortcut Widget"
+2. Right-click widget → "Configure ActionPad"
 3. Click "Add New Button" to create shortcuts
 4. Customize icons, colors, and layouts
 
