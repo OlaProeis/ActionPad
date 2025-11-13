@@ -19,7 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 2025-11-13
 
-### Initial Release
+### Initial Release - ActionPad
 
 #### Added
 - **Core Functionality**
@@ -96,7 +96,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Version History
 
 ### [1.0.0] - 2025-11-13
-First stable release of Shortcut Widget for KDE Plasma 6.
+First stable release of ActionPad for KDE Plasma 6.
 
 ---
 
@@ -128,12 +128,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for information on contributing to this p
 
 ## Links
 
-- **GitHub Repository**: https://github.com/olaproeis/actionpad
-- **Issue Tracker**: https://github.com/olaproeis/actionpad/issues
-- **Discussions**: https://github.com/olaproeis/actionpad/discussions
+- **GitHub Repository**: https://github.com/OlaProeis/ActionPad
+- **Issue Tracker**: https://github.com/OlaProeis/ActionPad/issues
+- **Discussions**: https://github.com/OlaProeis/ActionPad/discussions
 
 ---
 
-[Unreleased]: https://github.com/olaproeis/actionpad/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/olaproeis/actionpad/releases/tag/v1.0.0
+[Unreleased]: https://github.com/OlaProeis/ActionPad/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/OlaProeis/ActionPad/releases/tag/v1.0.0
 

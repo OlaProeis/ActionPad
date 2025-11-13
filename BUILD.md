@@ -1,6 +1,6 @@
-# Building Shortcut Widget from Source
+# Building ActionPad from Source
 
-This guide explains how to build and install the Shortcut Widget with its C++ plugin for full functionality.
+This guide explains how to build and install ActionPad with its C++ plugin for full functionality.
 
 ## Prerequisites
 

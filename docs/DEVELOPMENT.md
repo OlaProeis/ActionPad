@@ -1,6 +1,6 @@
 # Development Guide
 
-Complete technical guide for developing and contributing to Shortcut Widget.
+Complete technical guide for developing and contributing to ActionPad.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ Complete technical guide for developing and contributing to Shortcut Widget.
 
 ## Architecture Overview
 
-Shortcut Widget uses a hybrid architecture combining QML for UI and C++ for system operations.
+ActionPad uses a hybrid architecture combining QML for UI and C++ for system operations.
 
 ### Architecture Diagram
 

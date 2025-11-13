@@ -1,6 +1,6 @@
-# Contributing to Shortcut Widget
+# Contributing to ActionPad
 
-Thank you for your interest in contributing to Shortcut Widget! This document provides guidelines and instructions for contributing.
+Thank you for your interest in contributing to ActionPad! This document provides guidelines and instructions for contributing.
 
 ## Table of Contents
 
@@ -69,7 +69,7 @@ git clone https://github.com/YOUR_USERNAME/actionpad.git
 cd actionpad
 
 # Add upstream remote
-git remote add upstream https://github.com/olaproeis/actionpad.git
+git remote add upstream https://github.com/OlaProeis/ActionPad.git
 ```
 
 ### 2. Install Dependencies
@@ -511,5 +511,5 @@ By contributing, you agree that your contributions will be licensed under the GN
 
 ---
 
-**Thank you for contributing to Shortcut Widget!** 🎉
+**Thank you for contributing to ActionPad!** 🎉
 

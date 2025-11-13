@@ -1,6 +1,6 @@
 # Configuration Reference
 
-Complete reference for all Shortcut Widget configuration options.
+Complete reference for all ActionPad configuration options.
 
 ## Configuration File Location
 

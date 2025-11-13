@@ -1,6 +1,6 @@
-# Shortcut Widget - User Guide
+# ActionPad - User Guide
 
-Complete guide to using Shortcut Widget for KDE Plasma 6.
+Complete guide to using ActionPad for KDE Plasma 6.
 
 ## Table of Contents
 
@@ -459,5 +459,5 @@ See [TROUBLESHOOTING.md](TROUBLESHOOTING.md) for common issues and solutions.
 **Need More Help?**
 - [Configuration Reference](CONFIGURATION.md)
 - [Examples](EXAMPLES.md)
-- [GitHub Issues](https://github.com/olaproeis/actionpad/issues)
+- [GitHub Issues](https://github.com/OlaProeis/ActionPad/issues)
 

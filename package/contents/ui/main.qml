@@ -80,7 +80,7 @@ PlasmoidItem {
                     label: "Hello World",
                     tooltip: "Run a simple hello world script",
                     actionType: "script",
-                    actionTarget: "echo 'Hello World from Shortcut Widget!'",
+                    actionTarget: "echo 'Hello World from ActionPad!'",
                     icon: "dialog-information",
                     iconOnly: false,
                     color: "",

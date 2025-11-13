@@ -14,7 +14,7 @@ A powerful KDE Plasma 6 widget with native C++ command execution
 
 [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Documentation](#documentation) • [Contributing](#contributing)
 
-[![GitHub](https://img.shields.io/badge/GitHub-olaproeis%2Factionpad-181717?logo=github)](https://github.com/olaproeis/actionpad)
+[![GitHub](https://img.shields.io/badge/GitHub-olaproeis%2Factionpad-181717?logo=github)](https://github.com/OlaProeis/ActionPad)
 
 </div>
 
@@ -142,7 +142,7 @@ sudo pacman -S cmake extra-cmake-modules qt6-base \
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/olaproeis/actionpad.git
+   git clone https://github.com/OlaProeis/ActionPad.git
    cd actionpad
    ```
 
@@ -317,8 +317,8 @@ the Free Software Foundation, either version 3 of the License, or
 
 ## Support
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/olaproeis/actionpad/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/olaproeis/actionpad/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/OlaProeis/ActionPad/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/OlaProeis/ActionPad/discussions)
 - 📧 **Contact**: Create an issue on GitHub
 
 ---

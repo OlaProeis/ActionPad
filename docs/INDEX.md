@@ -1,6 +1,6 @@
 # Documentation Index
 
-Complete documentation for Shortcut Widget for KDE Plasma 6.
+Complete documentation for ActionPad for KDE Plasma 6.
 
 ## Getting Started
 
@@ -57,5 +57,5 @@ All documentation is licensed under the GNU General Public License v3.0 - see th
 
 ---
 
-**Questions or feedback?** Open an issue on [GitHub](https://github.com/olaproeis/actionpad/issues)!
+**Questions or feedback?** Open an issue on [GitHub](https://github.com/OlaProeis/ActionPad/issues)!
 

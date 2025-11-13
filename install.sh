@@ -1,7 +1,7 @@
 #!/bin/bash
-# Installation script for KDE Plasma Shortcut Widget
+# Installation script for KDE Plasma ActionPad
 
-echo "=== KDE Plasma Shortcut Widget Installer ==="
+echo "=== KDE Plasma ActionPad Installer ==="
 echo ""
 
 # Detect which packaging tool to use
@@ -50,7 +50,7 @@ echo ""
 echo "To use the widget:"
 echo "1. Right-click on your panel or desktop"
 echo "2. Select 'Add Widgets'"
-echo "3. Search for 'Shortcut Widget'"
+echo "3. Search for 'ActionPad'"
 echo "4. Drag it to your desired location"
 echo ""
 echo "To configure:"

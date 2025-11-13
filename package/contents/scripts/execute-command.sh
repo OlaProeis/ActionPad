@@ -1,5 +1,5 @@
 #!/bin/bash
-# Helper script for Shortcut Widget to execute commands
+# Helper script for ActionPad to execute commands
 # This is installed with the widget and provides command execution capability
 
 MODE="$1"

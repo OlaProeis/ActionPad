@@ -1,6 +1,6 @@
 # API Reference
 
-Complete API reference for Shortcut Widget QML and C++ interfaces.
+Complete API reference for ActionPad QML and C++ interfaces.
 
 ## Table of Contents
 
@@ -682,5 +682,5 @@ PlasmoidItem {
 
 ---
 
-**Questions?** See [DEVELOPMENT.md](DEVELOPMENT.md) or open an issue on [GitHub](https://github.com/olaproeis/actionpad/issues)!
+**Questions?** See [DEVELOPMENT.md](DEVELOPMENT.md) or open an issue on [GitHub](https://github.com/OlaProeis/ActionPad/issues)!
 

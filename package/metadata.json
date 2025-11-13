@@ -13,8 +13,8 @@
         "License": "GPL-3.0+",
         "Name": "ActionPad",
         "Version": "1.0.0",
-        "Website": "https://github.com/olaproeis/actionpad",
-        "BugReportUrl": "https://github.com/olaproeis/actionpad/issues"
+        "Website": "https://github.com/OlaProeis/ActionPad",
+        "BugReportUrl": "https://github.com/OlaProeis/ActionPad/issues"
     },
     "KPackageStructure": "Plasma/Applet",
     "X-Plasma-API-Minimum-Version": "6.0",

@@ -1,6 +1,6 @@
 # Publishing to KDE Store
 
-Complete guide to publish Shortcut Widget to the KDE Store so users can install it directly from their "Get New Widgets" menu.
+Complete guide to publish ActionPad to the KDE Store so users can install it directly from their "Get New Widgets" menu.
 
 ## What is KDE Store?
 
@@ -171,7 +171,7 @@ For full functionality including script execution:
 
 2. Clone and build:
    ```bash
-   git clone https://github.com/olaproeis/actionpad.git
+   git clone https://github.com/OlaProeis/ActionPad.git
    cd actionpad
    ./build-and-install.sh
    ```
@@ -206,7 +206,7 @@ killall plasmashell && plasmashell &
 3. Click "Add New Button" to create shortcuts
 4. Customize icons, colors, and layouts
 
-Full documentation: https://github.com/olaproeis/actionpad
+Full documentation: https://github.com/OlaProeis/ActionPad
 ```
 
 ### 4. Additional Information
@@ -217,10 +217,10 @@ Full documentation: https://github.com/olaproeis/actionpad
 - (For full functionality) Build tools: CMake, C++ compiler
 
 **Support:**
-- GitHub Issues: https://github.com/olaproeis/actionpad/issues
+- GitHub Issues: https://github.com/OlaProeis/ActionPad/issues
 
 **Source Code:**
-- Repository: https://github.com/olaproeis/actionpad
+- Repository: https://github.com/OlaProeis/ActionPad
 - License: GPL-3.0-or-later
 
 ### 5. Submit for Review

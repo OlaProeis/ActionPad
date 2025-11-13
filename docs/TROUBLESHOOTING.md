@@ -1,6 +1,6 @@
 # Troubleshooting Guide
 
-Common issues and solutions for Shortcut Widget.
+Common issues and solutions for ActionPad.
 
 ## Table of Contents
 
@@ -531,8 +531,8 @@ journalctl -xe | grep -i shortcutwidget | tail -50
 
 ## Still Need Help?
 
-- **GitHub Issues**: https://github.com/olaproeis/actionpad/issues
-- **GitHub Discussions**: https://github.com/olaproeis/actionpad/discussions
+- **GitHub Issues**: https://github.com/OlaProeis/ActionPad/issues
+- **GitHub Discussions**: https://github.com/OlaProeis/ActionPad/discussions
 - **KDE Forums**: https://forum.kde.org/
 
 When asking for help, please provide:

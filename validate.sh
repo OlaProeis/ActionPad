@@ -1,8 +1,8 @@
 #!/bin/bash
-# Quick validation script for Shortcut Widget
+# Quick validation script for ActionPad
 
 echo "=========================================="
-echo "  Shortcut Widget - Quick Validation"
+echo "  ActionPad - Quick Validation"
 echo "=========================================="
 echo ""
 

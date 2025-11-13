@@ -701,5 +701,5 @@ A complete configuration for software developers:
 
 ---
 
-Need more examples? Check the [User Guide](USER_GUIDE.md) or ask in [GitHub Discussions](https://github.com/olaproeis/actionpad/discussions)!
+Need more examples? Check the [User Guide](USER_GUIDE.md) or ask in [GitHub Discussions](https://github.com/OlaProeis/ActionPad/discussions)!
 
