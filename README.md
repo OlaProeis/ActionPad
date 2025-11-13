@@ -2,9 +2,11 @@
 
 <div align="center">
 
-![Shortcut Widget Logo](docs/images/logo.png)
+![ActionPad Logo](docs/images/logo.png)
 
-**A powerful and customizable widget for quick access to scripts, applications, and websites**
+**Run scripts without .desktop files • Launch apps • Open websites**
+
+A powerful KDE Plasma 6 widget with native C++ command execution
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-6.0%2B-1d99f3.svg)](https://kde.org/plasma-desktop/)
@@ -20,10 +22,13 @@
 
 ## Overview
 
-Shortcut Widget is a highly customizable KDE Plasma 6 widget that puts your most-used scripts, applications, and websites at your fingertips. With a sleek design that follows your system theme, it provides instant access to your favorite actions with just one click.
+ActionPad is a highly customizable KDE Plasma 6 widget that puts your most-used scripts, applications, and websites at your fingertips. With a sleek design that follows your system theme, it provides instant access to your favorite actions with just one click.
 
-### Why Shortcut Widget?
+**Unlike other launcher widgets**, ActionPad includes a **native C++ command executor** that lets you run shell scripts directly - **no .desktop files required**. This makes it perfect for developers and power users who want quick access to custom scripts without the hassle of creating and managing desktop entry files.
 
+### Why ActionPad?
+
+- ⚡ **No .desktop Files Needed** - Run scripts directly with our C++ executor (unique feature!)
 - 🚀 **Lightning Fast** - Execute scripts, launch apps, and open websites instantly
 - 🎨 **Fully Customizable** - Colors, icons, layouts, and sizes tailored to your needs
 - 🖌️ **Theme Integration** - Seamlessly blends with your KDE Plasma theme
