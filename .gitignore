@@ -1,0 +1,84 @@
+# Build directories
+build/
+build-*/
+*-build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# C++ compiled files
+*.o
+*.so
+*.a
+*.dylib
+*.dll
+*.exe
+*.out
+*_autogen/
+
+# Qt/QML
+*.qmlc
+*.jsc
+.qmake.stash
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# IDE and editor files
+.vscode/
+.idea/
+*.pro.user
+*.pro.user.*
+*.swp
+*.swo
+*~
+.DS_Store
+
+# KDE
+.kdev4/
+*.kdev4
+
+# Plasma
+.directory
+.cursor
+.taskmaster
+
+# Environment files
+.env
+.env.local
+
+# Internal/temporary documentation
+GITHUB_CHECKLIST.md
+GITHUB_REPO_DESCRIPTION.txt
+SAFE_RENAME_PROCEDURE.md
+safe-rename.sh
+
+# Test files
+test-scripts/
+TESTING.md
+
+# Logs
+*.log
+
+# Package files (build artifacts)
+*.tar.gz
+*.zip
+*.plasmoid
+actionpad-*.plasmoid
+shortcutwidget-*.plasmoid
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# System files
+Thumbs.db
+desktop.ini

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+    <kcfgfile name=""/>
+
+    <group name="General">
+        <!-- Layout Settings -->
+        <entry name="layoutType" type="String">
+            <default>grid</default>
+        </entry>
+        <entry name="buttonSize" type="String">
+            <default>custom</default>
+        </entry>
+        <entry name="buttonWidth" type="Int">
+            <default>80</default>
+        </entry>
+        <entry name="buttonHeight" type="Int">
+            <default>60</default>
+        </entry>
+        <entry name="spacing" type="Int">
+            <default>8</default>
+        </entry>
+        <entry name="gridColumns" type="Int">
+            <default>3</default>
+        </entry>
+
+        <!-- Button Data (stored as JSON string) -->
+        <entry name="buttonsData" type="String">
+            <default>[]</default>
+        </entry>
+    </group>
+</kcfg>
+

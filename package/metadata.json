@@ -1,0 +1,26 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "dev@example.com",
+                "Name": "ActionPad Developer"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "Quick access widget for scripts, applications, and websites with customizable buttons",
+        "EnabledByDefault": true,
+        "Icon": "preferences-system-windows-actions",
+        "Id": "com.github.actionpad",
+        "License": "GPL-3.0+",
+        "Name": "ActionPad",
+        "Version": "1.0.0",
+        "Website": "https://github.com/olaproeis/actionpad",
+        "BugReportUrl": "https://github.com/olaproeis/actionpad/issues"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.launchpad"
+    ]
+}
+
