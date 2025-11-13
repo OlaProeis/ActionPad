@@ -64,6 +64,9 @@ test-scripts/
 TESTING.md
 TESTING_CHECKLIST.md
 
+# Next project planning
+NEXT_PROJECT_PROMPT.md
+
 # Logs
 *.log
 
